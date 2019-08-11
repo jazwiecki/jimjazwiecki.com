@@ -10,4 +10,4 @@ describe("Header", () => {
       .toJSON()
     expect(tree).toMatchSnapshot()
   })
-})
+});
