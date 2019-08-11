@@ -26,6 +26,9 @@
     "react-helmet": "^5.2.1",
     "uuid": "^3.2.1"
   },
+  "engines": {
+    "node": "9.*"
+  },
   "keywords": [
     "gatsby"
   ],
