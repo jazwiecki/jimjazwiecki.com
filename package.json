@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "prettier": "^1.18.2",
-    "rimraf": "^2.7.0",
+    "rimraf": "^3.0.0",
     "babel-jest": "^24.8.0",
     "babel-preset-gatsby": "^0.2.8",
     "identity-obj-proxy": "^3.0.0",
