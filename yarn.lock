@@ -5972,9 +5972,9 @@ gatsby-plugin-sass@^2.1.11:
     "@babel/runtime" "^7.0.0"
     sass-loader "^7.3.1"
 
-gatsby-plugin-sharp@^2.2.15:
-  version "2.2.15"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.15.tgz#2234b112b4d7b13917946bdd4279698bbd825be7"
+gatsby-plugin-sharp@^2.2.16:
+  version "2.2.16"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.16.tgz#1a305dbbb9edf24aa9c1dc37e20b957e3fed4545"
   dependencies:
     "@babel/runtime" "^7.0.0"
     async "^2.6.3"
