@@ -5973,9 +5973,9 @@ gatsby-cli@^2.7.58:
     ink "^2.5.0"
     ink-spinner "^3.0.1"
 
-gatsby-core-utils@^1.0.12, gatsby-core-utils@^1.0.13:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.13.tgz#fdd89f70eac6f8eb08d53db34186a837aef20a66"
+gatsby-core-utils@^1.0.12, gatsby-core-utils@^1.0.13, gatsby-core-utils@^1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.14.tgz#81b20a88a9746bb5ba1c63041af229c2abb8b9f3"
 
 gatsby-graphiql-explorer@^0.2.23:
   version "0.2.23"
@@ -6051,15 +6051,15 @@ gatsby-plugin-sass@^2.1.18:
     "@babel/runtime" "^7.6.3"
     sass-loader "^7.3.1"
 
-gatsby-plugin-sharp@^2.2.29:
-  version "2.2.29"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.29.tgz#91f4f9437f999e5f3c918d0046f68a8d5b78ad62"
+gatsby-plugin-sharp@^2.2.30:
+  version "2.2.30"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.2.30.tgz#4862a4a418034c1297f065cf1ad67ab8f86146a2"
   dependencies:
     "@babel/runtime" "^7.6.3"
     async "^2.6.3"
     bluebird "^3.7.0"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^1.0.13"
+    gatsby-core-utils "^1.0.14"
     got "^8.3.2"
     imagemin "^6.1.0"
     imagemin-mozjpeg "^8.0.0"
