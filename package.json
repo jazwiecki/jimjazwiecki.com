@@ -9,7 +9,7 @@
     "gatsby-plugin-netlify": "^2.1.20",
     "gatsby-plugin-netlify-cms": "^3.0.18",
     "gatsby-plugin-react-helmet": "^3.1.12",
-    "gatsby-plugin-sass": "^2.1.19",
+    "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-sharp": "^2.2.30",
     "gatsby-remark-images": "^3.1.27",
     "gatsby-source-filesystem": "^2.1.32",
