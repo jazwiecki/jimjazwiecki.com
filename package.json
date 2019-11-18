@@ -47,6 +47,6 @@
     "babel-preset-gatsby": "^0.2.20",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
-    "react-test-renderer": "^16.11.0"
+    "react-test-renderer": "^16.12.0"
   }
 }
