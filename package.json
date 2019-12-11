@@ -5,7 +5,7 @@
   "author": "Jim Jazwiecki",
   "dependencies": {
     "bulma": "^0.8.0",
-    "gatsby": "^2.18.8",
+    "gatsby": "^2.18.10",
     "gatsby-plugin-netlify": "^2.1.28",
     "gatsby-plugin-netlify-cms": "^3.0.18",
     "gatsby-plugin-react-helmet": "^3.1.16",
