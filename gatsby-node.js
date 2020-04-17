@@ -83,3 +83,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+const { registerLocalFs } = require('netlify-cms-proxy-server/dist/middlewares')
+exports.onCreateDevServer = async ({ app }) => {
+  await registerLocalFs(app)
+}
