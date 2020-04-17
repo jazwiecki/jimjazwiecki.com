@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Lorem Ipsum Blog Entry TK
 date: 2019-08-10T19:21:31.796Z
+lead_image: /img/rph-110425-thepoint-4497.jpg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet
   semper elit. Nullam laoreet nec mi ac accumsan. Quisque convallis ex dui, nec
