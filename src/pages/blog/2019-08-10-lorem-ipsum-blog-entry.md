@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Lorem Ipsum Blog Entry
+title: Lorem Ipsum Blog Entry TK
 date: 2019-08-10T19:21:31.796Z
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet
