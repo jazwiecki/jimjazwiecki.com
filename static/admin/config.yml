@@ -3,11 +3,11 @@ backend:
   branch: master
 
 # when using the default proxy server port
-local_backend: true
+# local_backend: true
 
 # when using a custom proxy server port
-# local_backend:
-#   url: http://localhost:8082/api/v1
+local_backend:
+  url: http://localhost:8000/api/v1
 
 media_folder: static/img
 public_folder: /img
