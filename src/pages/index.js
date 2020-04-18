@@ -30,7 +30,7 @@ export default class IndexPage extends React.Component {
                     <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
-                    {post.excerpt}
+                    <img src={post.frontmatter.lead_image} />
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
@@ -68,6 +68,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
+            lead_image
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
