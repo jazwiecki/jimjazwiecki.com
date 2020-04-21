@@ -6,7 +6,7 @@
   "engines": { "node" : "^10.13.0"},
   "dependencies": {
     "bulma": "^0.8.0",
-    "gatsby": "^2.18.12",
+    "gatsby": "^2.20.27",
     "gatsby-plugin-netlify": "^2.1.35",
     "gatsby-plugin-netlify-cms": "^3.0.18",
     "gatsby-plugin-react-helmet": "^3.1.24",
