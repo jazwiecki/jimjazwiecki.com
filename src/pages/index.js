@@ -30,7 +30,9 @@ export default class IndexPage extends React.Component {
                     <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
-                    <img src={post.frontmatter.lead_image} />
+                    <figure class="image">
+                      <img src={post.frontmatter.lead_image} class="is-rounded"/>
+                    </figure>
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
