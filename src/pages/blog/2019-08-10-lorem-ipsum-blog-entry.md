@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Lorem Ipsum Blog Entry TK
+title: Entry with Lead Image
 date: 2019-08-10T19:21:31.796Z
 lead_image: /img/rph-110425-thepoint-4497.jpg
 description: >-
