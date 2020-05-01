@@ -47,7 +47,7 @@
     "babel-jest": "^25.5.1",
     "babel-preset-gatsby": "^0.4.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^25.5.2",
+    "jest": "^25.5.3",
     "netlify-cms-proxy-server": "^1.2.6",
     "prettier": "^2.0.5",
     "react-test-renderer": "^16.13.1",
