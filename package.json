@@ -10,7 +10,7 @@
     "bulma": "^0.8.2",
     "gatsby": "^2.22.20",
     "gatsby-plugin-netlify": "^2.3.5",
-    "gatsby-plugin-netlify-cms": "^4.3.4",
+    "gatsby-plugin-netlify-cms": "^4.3.5",
     "gatsby-plugin-react-helmet": "^3.3.4",
     "gatsby-plugin-sass": "^2.3.4",
     "gatsby-plugin-sharp": "^2.6.11",
