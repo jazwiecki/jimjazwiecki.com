@@ -16,7 +16,7 @@
     "gatsby-plugin-sharp": "^2.6.37",
     "gatsby-remark-images": "^3.3.30",
     "gatsby-source-filesystem": "^2.3.31",
-    "gatsby-transformer-remark": "^2.8.35",
+    "gatsby-transformer-remark": "^2.8.36",
     "gatsby-transformer-sharp": "^2.5.16",
     "lodash": "^4.17.20",
     "lodash-webpack-plugin": "^0.11.4",
