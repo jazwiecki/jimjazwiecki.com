@@ -9,7 +9,7 @@
   "dependencies": {
     "bulma": "^0.9.1",
     "gatsby": "^2.24.65",
-    "gatsby-plugin-netlify": "^2.3.16",
+    "gatsby-plugin-netlify": "^2.3.17",
     "gatsby-plugin-netlify-cms": "^4.3.14",
     "gatsby-plugin-react-helmet": "^3.3.12",
     "gatsby-plugin-sass": "^2.3.14",
